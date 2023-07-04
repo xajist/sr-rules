@@ -1,1 +1,1 @@
-# sr-rules
+# Shadowrocket Rules
